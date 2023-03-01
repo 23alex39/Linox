@@ -1,1 +1,1 @@
-# Linox
+# Linux
